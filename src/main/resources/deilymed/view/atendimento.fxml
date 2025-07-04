@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="deilymed.Controller.AtendimentoController">
+   <children>
+      <Button layoutX="270.0" layoutY="164.0" mnemonicParsing="false" text="Button" />
+      <ImageView fx:id="bt_sair" fitHeight="25.0" fitWidth="25.0" layoutX="561.0" layoutY="14.0" onMouseClicked="#sairDoModulo">
+         <image>
+            <Image url="@../../IMG/sair.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
