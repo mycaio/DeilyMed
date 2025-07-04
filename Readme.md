@@ -39,8 +39,7 @@ Siga os passos abaixo para configurar e executar a aplicação em seu ambiente d
 Primeiro, clone este repositório para a sua máquina local:
 
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
-cd <NOME_DA_PASTA_DO_PROJETO>
+git clone <https://github.com/mycaio/DeilyMed.git>
 ```
 
 ### 2\. Configurar o Projeto
